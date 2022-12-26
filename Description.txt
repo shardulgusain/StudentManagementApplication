@@ -1,0 +1,6 @@
+This is a CLI based basic project that shows the working of java with MySQL Database using JDBC API.
+Features:
+Add Student
+Update Student
+Delete Student
+Display Student
