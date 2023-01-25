@@ -15,7 +15,7 @@ class ConnectionProvider {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
             String user = "root";
-            String password = "YourPassword";
+            String password = "Mysql@1Shardul";
             String url = "jdbc:mysql://localhost:3306/student_manage";
 
             con = DriverManager.getConnection(url, user, password);
